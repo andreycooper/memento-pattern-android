@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Memento</string>
+    <string name="title_activity_memento">Memento pattern</string>
+    <string name="title_activity_simple">Without Memento</string>
+
+    <string name="hello_title">Hello! What\'s your name?</string>
+    <string name="edit_text_hint">Enter your name here</string>
+    <string name="greetings_title">Greetings, User!</string>
+
+    <string name="samples_title_string">Samples:</string>
+    <string name="memento_button_title">With Memento</string>
+    <string name="without_memento_button_title">And Without</string>
+</resources>
